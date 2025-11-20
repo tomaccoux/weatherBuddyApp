@@ -241,7 +241,7 @@ See [DOCUMENTATION.md](DOCUMENTATION.md) for detailed troubleshooting.
 - **Animation Runtime**: [Rive](https://rive.app/)
 - **Designer**: [Tom Acco](https://github.com/tomaccoux)
 - **Rive Animator**: [Tom Acco](https://github.com/tomaccoux)
-- **Developer**: [Alon Raz Lev](https://github.com/lealone)
+- **Developer**: [Alon Raz Levi](https://github.com/lealone)
 
 ## License
 
