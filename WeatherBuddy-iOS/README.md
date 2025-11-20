@@ -239,9 +239,9 @@ See [DOCUMENTATION.md](DOCUMENTATION.md) for detailed troubleshooting.
 
 - **Weather Data**: [Open-Meteo](https://open-meteo.com/)
 - **Animation Runtime**: [Rive](https://rive.app/)
-- **Designer**: Tom Acco
-- **Rive Animator**: Tom Acco
-- **Developer**: Alon Raz Levi 
+- **Designer**: [Tom Acco](https://github.com/tomaccoux)
+- **Rive Animator**: [Tom Acco](https://github.com/tomaccoux)
+- **Developer**: [Alon Raz Lev](https://github.com/lealone)
 
 ## License
 
