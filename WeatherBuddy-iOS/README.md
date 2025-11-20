@@ -239,7 +239,9 @@ See [DOCUMENTATION.md](DOCUMENTATION.md) for detailed troubleshooting.
 
 - **Weather Data**: [Open-Meteo](https://open-meteo.com/)
 - **Animation Runtime**: [Rive](https://rive.app/)
-- **Developer**: Alon Raz Levi
+- **Designer**: Tom Acco
+- **Rive Animator**: Tom Acco
+- **Developer**: Alon Raz Levi 
 
 ## License
 
